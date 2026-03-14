@@ -30,3 +30,4 @@
 /Users/rahulkumar/Dot_Net_Project/DotNetSortApi/obj/Debug/net9.0/DotNetSortApi.pdb
 /Users/rahulkumar/Dot_Net_Project/DotNetSortApi/obj/Debug/net9.0/DotNetSortApi.genruntimeconfig.cache
 /Users/rahulkumar/Dot_Net_Project/DotNetSortApi/obj/Debug/net9.0/ref/DotNetSortApi.dll
+/Users/rahulkumar/Dot_Net_Project/DotNetSortApi/obj/Debug/net9.0/DotNetSortApi.sourcelink.json

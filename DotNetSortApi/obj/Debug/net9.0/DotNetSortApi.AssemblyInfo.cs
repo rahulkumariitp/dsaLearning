@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetSortApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25971517bce013c68e95abf926f00a2626b704d")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetSortApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetSortApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

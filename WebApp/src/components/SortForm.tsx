@@ -10,7 +10,7 @@ interface SortFormProps {
 // Configuration for available backends (base URLs)
 const BACKENDS: BackendConfig[] = [
   { name: 'Python (Flask)', value: 'python', url: 'http://localhost:5002/sort' },
-  { name: '.NET (Web API)', value: 'dotnet', url: 'http://localhost:5001/api/sort' }
+  { name: '.NET (Web API)', value: 'dotnet', url: 'http://localhost:5050/api/sort' }
 ]
 
 // Available algorithm keys (must match backend endpoints)
