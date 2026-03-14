@@ -1,0 +1,40 @@
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.app-container h1 {
+  color: #646cff;
+  margin-bottom: 2rem;
+}
+
+.main-content {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.error-message {
+  color: #ff6b6b;
+  background-color: rgba(255, 107, 107, 0.1);
+  padding: 1rem;
+  border-radius: 8px;
+  grid-column: 1 / -1;
+  margin-bottom: 1rem;
+}
+
+.loading-message {
+  color: #646cff;
+  padding: 1rem;
+  grid-column: 1 / -1;
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .main-content {
+    grid-template-columns: 1fr;
+  }
+}

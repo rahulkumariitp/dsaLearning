@@ -1,0 +1,85 @@
+.sort-result {
+  background-color: #1a1a1a;
+  padding: 2rem;
+  border-radius: 8px;
+  border: 1px solid #646cff;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sort-result h2 {
+  color: #646cff;
+  margin-top: 0;
+}
+
+.result-item {
+  padding: 1rem;
+  background-color: #242424;
+  border-radius: 4px;
+}
+
+.result-item h3 {
+  margin-top: 0;
+  color: #e0e0e0;
+  font-size: 1.1rem;
+}
+
+.array-display {
+  padding: 1rem 0;
+}
+
+.numbers-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.number-badge {
+  display: inline-block;
+  background-color: #646cff;
+  color: #ffffff;
+  padding: 0.5rem 0.75rem;
+  border-radius: 4px;
+  font-weight: 600;
+  min-width: 2.5rem;
+  text-align: center;
+}
+
+.empty-message {
+  color: #999;
+  font-style: italic;
+}
+
+.time-display {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+}
+
+.time-value {
+  font-size: 2rem;
+  color: #646cff;
+  font-weight: 700;
+}
+
+.time-unit {
+  color: #999;
+  font-size: 0.9rem;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.5rem;
+}
+
+.stats p {
+  margin: 0;
+  color: #e0e0e0;
+  text-align: left;
+}
+
+.stats strong {
+  color: #646cff;
+}
